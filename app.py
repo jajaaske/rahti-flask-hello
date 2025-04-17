@@ -8,7 +8,7 @@ import flask
 
 # Templates
 # In a proper Flask application all these templates should be in indepent files
-STYLE = """
+STYLE = 
 body {
   background-color: silver;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
@@ -18,7 +18,7 @@ body {
 img {
   width: 90%;
 }
-"""
+
 
 PAGE = """
 <!DOCTYPE html>
